@@ -1,0 +1,10 @@
+[Unit]
+Description=Disable WLAN Power Mgmt
+After=multi-user.target
+ 
+[Service]
+Type=idle
+ExecStart=/home/pi/PiCam_API/disablewlanpowermgmt.sh
+ 
+[Install]
+WantedBy=multi-user.target

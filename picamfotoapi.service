@@ -1,0 +1,10 @@
+[Unit]
+Description=PiCam Foto API
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/pi/PiCam_API/foto_api.py
+
+[Install]
+WantedBy=multi-user.target

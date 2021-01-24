@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+.pytest_cache/
+__pycache__/
+RPi_Image_Config
+*.pyc
+get_foto.py
+take_foto.py
+
