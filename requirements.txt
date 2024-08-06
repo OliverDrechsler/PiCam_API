@@ -1,4 +1,4 @@
-flask
-flask-restplus
-Werkzeug==3.0.1
-picamera
+flask==3.0.3
+flask-restx==1.3.0
+Werkzeug==3.0.3
+#picamera

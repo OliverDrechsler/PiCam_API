@@ -6,4 +6,6 @@ RPi_Image_Config
 *.pyc
 get_foto.py
 take_foto.py
-
+venv/*
+.venv/*
+.idea/*
