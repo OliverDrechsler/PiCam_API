@@ -1,4 +1,4 @@
 flask
-flask-restplus
+flask-restplus==0.13.0
 Werkzeug==3.0.3
 picamera
