@@ -1,4 +1,4 @@
 flask
 flask-restplus
 Werkzeug==3.1.5
-picamera
+picamera==1.13
